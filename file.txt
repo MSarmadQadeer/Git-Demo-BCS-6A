@@ -2,3 +2,5 @@ hello class!
 
 on master
 master 2'
+
+on feature branch
