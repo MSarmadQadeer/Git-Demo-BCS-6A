@@ -1,3 +1,4 @@
 hello class!
 
 on master
+master 2'
